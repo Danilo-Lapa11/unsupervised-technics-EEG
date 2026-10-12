@@ -6,6 +6,14 @@ __pycache__/
 # C extensions
 *.so
 
+# Data files
+*.csv
+*.parquet
+*.xlsx
+/data
+/docs
+/overleaf
+
 # Distribution / packaging
 .Python
 build/
